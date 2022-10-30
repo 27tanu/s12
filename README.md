@@ -1,2 +1,3 @@
 # s14
-printf("This is my second code")
+printf("This is my first code");
+printf("this is my second code");
