@@ -1,2 +1,2 @@
-# s12
-printf("This is my first code")
+# s14
+printf("This is my second code")
